@@ -1,4 +1,4 @@
-# 🇮🇱 Hebrew Wordle Game
+# Hebrew Wordle Game
 
 A browser-based Wordle-style game built with HTML, CSS, and JavaScript, designed specifically for Hebrew speakers. Players try to guess a five-letter Hebrew word within six attempts using a custom virtual keyboard.
 
